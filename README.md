@@ -1,15 +1,14 @@
 # SSS-LiD_EIgene
 
-Code and input data for generating elemental images for the SSS-LiD display pipeline.
+This project is used to generate the element images required for SSS-LiD.
 
 ## Contents
 
 - `CODE/VF40201_GenEI_USAF.py`: main script for generating display images.
 - `CODE/Func_GeneMap_360hz1080pV0927_corr.py`: lens/view mapping generation.
 - `CODE/Func_TiffStackDir.py`: PNG/TIFF image I/O helpers.
-- `ViewpointData/`: input multi-view PNG data.
 
-Generated TIFF outputs under `CODE/VF40201_ImgDisp_ALL/` are not tracked in Git.
+Generated TIFF outputs under `CODE/VF40201_ImgDisp_ALL/` and local input data under `ViewpointData/PlantTestUSAF/` are not tracked in Git.
 
 ## Setup
 
