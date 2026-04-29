@@ -1,0 +1,19 @@
+.vs/
+**/.vscode/
+**/__pycache__/
+*.py[cod]
+
+# Generated display images; regenerate with CODE/VF40201_GenEI_USAF.py.
+CODE/VF40201_ImgDisp_ALL/
+
+# Local/input image dataset not tracked in Git.
+ViewpointData/PlantTestUSAF/
+
+# Temporary generated lens-map output.
+CODE/temp_map_360hz1080p3spV0927_corr/
+
+# Local environment files.
+.env
+.venv/
+venv/
+env/

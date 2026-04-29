@@ -1,0 +1,8 @@
+numpy
+torch
+torchvision
+Pillow
+tifffile
+scipy
+matplotlib
+tensorboardX
