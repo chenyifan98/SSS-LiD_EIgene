@@ -4,10 +4,18 @@
 *.py[cod]
 
 # Generated display images; regenerate with CODE/VF40201_GenEI_USAF.py.
-CODE/VF40201_ImgDisp_ALL/
+CODE/VF40201_ImgDisp_ALL/*
+!CODE/VF40201_ImgDisp_ALL/.gitkeep
+!CODE/VF40201_ImgDisp_ALL/ALL_Img_Disp/
+CODE/VF40201_ImgDisp_ALL/ALL_Img_Disp/*
+!CODE/VF40201_ImgDisp_ALL/ALL_Img_Disp/.gitkeep
 
 # Local/input image dataset not tracked in Git.
-ViewpointData/PlantTestUSAF/
+ViewpointData/PlantTestUSAF/*
+!ViewpointData/PlantTestUSAF/.gitkeep
+!ViewpointData/PlantTestUSAF/Results_V9/
+ViewpointData/PlantTestUSAF/Results_V9/*
+!ViewpointData/PlantTestUSAF/Results_V9/.gitkeep
 
 # Temporary generated lens-map output.
 CODE/temp_map_360hz1080p3spV0927_corr/
